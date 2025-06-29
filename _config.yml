@@ -1,5 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins: 
 - jekyll-remote-theme
-title: "<a href='/' style='color:#e69b95'>La Posada al Final del Tiempo</a>"
-description: En Desarrollo
+title: <a href='/' style='color:#fff'>La Posada al Final del Tiempo</a>
+description: Costumbrismo fantásitico en un universo decadente
