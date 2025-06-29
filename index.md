@@ -1,21 +1,22 @@
 *El fin ha llegado.*
 
-*Las estrellas se apagan una a una, dejando tras de sí la oscuridad insondable.*
-*Lo consume todo: tu nombre, tu historia, tu mundo.*
+*Las estrellas se apagan una a una, dejando tras de sí la oscuridad insondable.*  
+*Lo consume todo: tu nombre, tu historia, tu mundo.*  
 *Le llaman **El Olvido**.*
 
-*Algunas figuras errantes resisten.*
-*En los márgenes de todo lo que fue,*
-*amparados por lo que pudo ser,*
-*quienes no han encontrado final para su historia escriben su último capítulo.*
+*En los márgenes de todo lo que fue,*  
+*amparados por lo que pudo ser,*  
+*quienes no han encontrado final para su historia escriben su último capítulo.*  
 
-*Allí, en Ningunlugar,*
-*en la Posada al Final del Tiempo.*
+*Allí, en Ningunlugar,*  
+*en **la Posada al Final del Tiempo**.*
 
+<br />
 
-<hr /> 
+*La Posada del Final del Tiempo* es un juego de rol narrativo que se enmarca dentro de la jam de juegos de rol [Mermelada Rolera 2025](https://rolerosnorepresentativos.wordpress.com/2025/06/17/la-mermelada-rolera-2025-ya-esta-aqui/) convocada por Roleros No Representativos. El juego aún se encuentra en fase de desarrollo. 
 
-*La Posada del Final del Tiempo* es un juego de rol narrativo que se enmarca dentro de la jam de juegos de rol [Mermelada Rolera 2025](https://rolerosnorepresentativos.wordpress.com/2025/06/17/la-mermelada-rolera-2025-ya-esta-aqui/) convocada por Roleros No Representativos. El juego aún se encuentra en fase de desarrollo. Si tienes inquietud por la iniciativa aún estás a tiempo de participar.  
+Si tienes inquietud por la iniciativa aún estás a tiempo de participar **¡Anímate!** 
+
 
 ## Contacto
 Puedes encontrarme en múltiples sitios con el nickname **@darofar**. 
