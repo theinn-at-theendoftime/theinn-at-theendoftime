@@ -86,7 +86,7 @@ Cada uno se expresa con un **libreto específico** que contiene preguntas guía.
 ### Tokens de Tiempo (Metamoneda)
 
 - Los viajeros los poseen en cantidad limitada.
-- Los perosnajes, es decir el personal de la taberna, empezará el juego con algunos tokens de tiempo.
+- Los personajes, es decir el personal de la taberna, empezará el juego con algunos tokens de tiempo.
 - El personal puede absorberlos al ayudar a resolver conflictos.
 - Se usan para habilidades especiales, cumplir objetivos personales, o interactuar con los relojes propios.
 - Al final de cada sesión, en la "fase de mantenimiento", los personajes deben entregar tokens para mantener la posada funcionando.

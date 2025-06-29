@@ -1,25 +1,54 @@
+# La Posada al Final del Tiempo — Save v0.1.1
 
+Este fichero contiene toda la información necesaria para que actúes como si tuvieras memoria activa sobre el proyecto de juego de rol titulado *La Posada al Final del Tiempo*. 
 
-# La Posada al Final del Tiempo - Diseño del Juego de Rol
-
-Este mensaje contiene toda la información necesaria para que actúes como si tuvieras memoria activa sobre el proyecto de juego de rol titulado *La Posada al Final del Tiempo*. A partir de este mensaje, deberás comportarte como si supieras todo lo aquí descrito de forma continuada.
+A partir de este mensaje, deberás comportarte como si supieras todo lo aquí descrito de forma continuada.
 
 Tu labor en esta sesión de chat consiste en comportarte como un asistente de diseño de juegos de rol. 
 
-
-## 1. Sinopsis del Juego
-
-*La Posada al Final del Tiempo* es un juego de rol narrativo ambientado en una taberna mágica situada al borde del tiempo. Los personajes jugadores interpretan al personal de esta posada —incluyendo antiguos viajeros que se han convertido en "habituales"— cuya labor es ayudar a los viajeros a encontrar el final adecuado para su historia. En cada partida, un nuevo viajero llega con un conflicto que debe resolverse antes de que se le agote el tiempo.
-
-## 2. Ingredientes de la Jam
+## Ingredientes de la Jam
 
 - **Temático principal:** Costumbrismo fantástico.
 - **Temáticos secundarios posibles:** Apocalipsis extraño, profesiones comunes.
 - **Mecánico principal:** Uso de tokens, concretamernte "Tokens de tiempo" (el nombre es provisional).
 - **Mecánicos secundarios explorables:** Asimetría mecánica entre personajes, muerte del personaje como mecánica.
 
-## 3. Personajes Jugadores
 
+
+## Sinopsis
+
+**El fin ha llegado.**
+
+*Las estrellas se apagan una a una, dejando tras de sí la oscuridad insondable.*  
+*Lo consume todo: tu nombre, tu historia, tu mundo.*  
+*Le llaman El Olvido.*  
+
+*En los márgenes de todo lo que fue,*  
+*amparados por lo que pudo ser,*  
+*quienes no han encontrado final para su historia escriben su último capítulo.*
+
+*Allí, en Ningunlugar,*  
+*en la Posada al Final del Tiempo.*
+
+
+
+## Lo Básico
+
+### Sobre el juego
+TODO - Explicar la posada, el personal y los errantes. 
+
+### Puntos de tiempo
+TODO - Sin puntos te devora el olvido. 
+
+### Relojes
+TODO
+
+### Movimientos y tiradas de dados
+TODO
+
+
+
+## Creación de Personaje
 Los PJs son miembros del personal de la posada. Pueden ser trabajadores tradicionales o antiguos viajeros que se han convertido en parte del staff.
 
 ### Arquetipos del Staff
@@ -33,31 +62,91 @@ Los PJs son miembros del personal de la posada. Pueden ser trabajadores tradicio
 - La Mandadera
 - El Asiduo (antiguo viajero convertido en habitual)
 
-## 4. Estructura de Personaje
+### Estructura de Personaje
 
-### Aspectos (sistema inspirado en FATE/FAE)
+#### Aspectos (sistema inspirado en FATE/FAE)
 
 - **Principal:** Define el núcleo del personaje.
 - **Especie:** Qué tipo de ser es, con completa libertad narrativa.
 - **Talento:** Aquello que hace excepcionalmente bien.
 - **Complicación:** Algo que le mete en problemas con frecuencia.
 
-### Proezas
+#### Proezas
 
 - Habilidades especiales que permiten interactuar con los **tokens de tiempo**.
 - Podrían funcionar como movimientos únicos por arquetipo.
-
-### Caminos (libretos narrativos)
+#### Caminos (libretos narrativos)
 
 Cada PJ tiene un "Camino", que representa un conflicto personal.
 
-#### Tipos de Caminos:
+##### Tipos de Caminos:
 
 - El Camino de la Búsqueda
 - El Camino de la Huida
 - El Camino de la Redención
 
 Cada uno se expresa con un **libreto específico** que contiene preguntas guía.
+
+### 📂 Libretos de Camino
+
+#### 🧭 ¿Qué es un Camino?
+
+Cada personaje habita la Posada al Final del Tiempo con una historia inconclusa.  
+A esta herida narrativa la llamamos su **Camino**: puede ser una búsqueda, una huida o una necesidad de redención.  
+El Camino es el eje emocional y narrativo del personaje.
+
+---
+
+#### ✍️ ¿Cómo funciona un libreto de Camino?
+
+Al escoger un Camino, el jugador recibe un **libreto narrativo** con cinco preguntas clave:
+
+1. ¿Qué buscas / huyes / necesitas redimir?  
+2. ¿Por qué te embarcaste en este camino?  
+3. ¿Cómo ese camino te trajo hasta la Posada?  
+4. Una relación clave ligada a tu camino (PJ o PNJ)  
+5. Un símbolo, objeto o recuerdo que llevas contigo
+
+---
+
+#### 🌱 ¿Cuándo se responden?
+
+- Al crear el personaje, se elige uno de los tres Caminos.
+- Se responde solo **una** de las cinco preguntas; el resto quedan **vacías**.
+- Estas preguntas se desbloquean **durante la partida**, al vivir escenas significativas de apertura emocional.
+
+---
+
+#### 🔓 ¿Cómo se completan las preguntas?
+
+Para responder una pregunta, el personaje debe participar en una **escena de vínculo o revelación**: puede ser con un PJ, PNJ o mediante introspección narrativa (sueños, recuerdos, etc.).
+
+Una vez vivida la escena, se marca una pregunta como completada.
+
+---
+
+#### ⏳ Requisitos de avance narrativo
+
+Para desbloquear hitos en la **Senda de la Esperanza**, es necesario haber respondido cierto número de preguntas:
+
+| Avance | Preguntas mínimas respondidas |
+|--------|-------------------------------|
+| 3      | 2                             |
+| 6      | 3                             |
+| 9      | 4                             |
+| 12     | 5 (todas completadas)         |
+
+---
+
+#### 📁 Libretos disponibles
+
+- **Camino de la Búsqueda** — Algo te falta.
+- **Camino de la Huida** — Algo te persigue.
+- **Camino de la Redención** — Algo necesita ser reparado.
+
+(Desarrollo de cada uno en secciones independientes.)
+
+---
 
 ## 5. Relojes y Tokens de Tiempo
 
@@ -86,7 +175,7 @@ Cada uno se expresa con un **libreto específico** que contiene preguntas guía.
 ### Tokens de Tiempo (Metamoneda)
 
 - Los viajeros los poseen en cantidad limitada.
-- Los perosnajes, es decir el personal de la taberna, empezará el juego con algunos tokens de tiempo.
+- Los personajes, es decir el personal de la taberna, empezará el juego con algunos tokens de tiempo.
 - El personal puede absorberlos al ayudar a resolver conflictos.
 - Se usan para habilidades especiales, cumplir objetivos personales, o interactuar con los relojes propios.
 - Al final de cada sesión, en la "fase de mantenimiento", los personajes deben entregar tokens para mantener la posada funcionando.
